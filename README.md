@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## About Me
-
 My name is Fernando Goncalves and I'm a passionate DevOps engineer based in Vancouver - beautiful British Columbia, Canada. My journey in the tech world started about 15 years ago and it has been marked by a love for automation, cloud technologies, and continuous improvement. I am thrilled to be continuously learning new skills that built a solid ground for me to achieve my career goals and keep up with the ever-changing tech industry.
 
 ## 🛠️ Tech Stack
@@ -16,13 +14,11 @@ My name is Fernando Goncalves and I'm a passionate DevOps engineer based in Vanc
 
 ## 🌍 Personal Interests
 
-Beyond the tech realm, I'm an avid sports enthusiast and an advocate for an active lifestyle. Here's how I spend my personal time:
-
-- 💪 **Workout at the Gym:**
-- 🥾 **Hiking and Backpacking:**
-- 🏄‍♂️ **Surfing:**
-- 🏂 **Snowboarding:**
-- ✈️ **Travel:**
+- 💪 Workout at the Gym
+- 🥾 Hiking and Backpacking
+- 🏄‍♂️ Surfing
+- 🏂 Snowboarding
+- ✈️  Travel
 
 <!---
 ## 🌟 Let's Connect!
